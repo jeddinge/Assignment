@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Esri_API_night2", "Esri_API_night2\", "{C2A3A7FA-16F0-4ABA-A409-600657F5B264}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62313"
+		Debug.AspNetCompiler.PhysicalPath = "Esri_API_night2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62313\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62313"
+		Release.AspNetCompiler.PhysicalPath = "Esri_API_night2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62313\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62313"
+		SlnRelativePath = "Esri_API_night2\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2A3A7FA-16F0-4ABA-A409-600657F5B264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A3A7FA-16F0-4ABA-A409-600657F5B264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0833D10F-963D-4E8F-8AF4-15C0B1F6B821}
+	EndGlobalSection
+EndGlobal
